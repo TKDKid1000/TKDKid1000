@@ -1,16 +1,14 @@
-### Hi there 👋
+### Hi there! I'm TKDKid1000!
 
-<!--
-**TKDKid1000/TKDKid1000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a minecraft developer for CyberhubMC. 
+I code in mostly java, and have contributed to large projects like Essentialsx.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I’m currently working on a few projects for [CyberhubMC](http://cyberhub.net:10000).
+I’m currently learning JavaScript so I can develop my website. 
+Ask me about some of my current projects! Like MCGO or splat craft. 
+Want to contact me? Go [here](https://tkdkid1000.github.io).
+Pronouns: he/him
+
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=TKDKid1000)](https://github.com/anuraghazra/github-readme-stats)
