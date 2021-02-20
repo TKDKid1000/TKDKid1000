@@ -11,7 +11,7 @@ I’m currently learning JavaScript so I can develop my website.
 
 Ask me about some of my current projects! Like MCGO or splat craft. 
 
-Want to contact me? Go [here](https://tkdkid1000.github.io).
+Want to contact me? Go [here](https://tkdkid1000.github.io/contact.html).
 
 Pronouns: he/him
 
