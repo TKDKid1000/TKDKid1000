@@ -15,4 +15,4 @@ Want to contact me? Go [here](https://tkdkid1000.github.io).
 
 Pronouns: he/him
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=TKDKid1000)]
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=TKDKid1000)
