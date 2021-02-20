@@ -19,4 +19,4 @@ Pronouns: he/him
 
 [![Cyberhub](https://github-readme-stats.vercel.app/api/pin/?username=TKDKid1000&repo=CyberhubMC)](https://github.com/TKDKid1000/CyberhubMC)
 
-[Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TKDKid1000&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TKDKid1000&layout=compact)
