@@ -17,6 +17,6 @@ Pronouns: he/him
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=TKDKid1000)
 
-[![Cyberhub](https://github-readme-stats.vercel.app/api/pin/?username=TKDKid1000&repo=CyberhubMC)](https://github.com/TKDKid1000/CyberhubMC)
+[![Cyberhub](https://github-readme-stats.vercel.app/api/pin/?username=The-Epic-Server&repo=Armis-World)](https://github.com/The-Epic-Server/Armis-World)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TKDKid1000&layout=compact)
