@@ -1,11 +1,11 @@
 ### Hi there! I'm TKDKid1000!
 
-I’m a minecraft developer for CyberhubMC. 
+I’m a minecraft developer for Armi's World. 
 I code in mostly java, and have contributed to large projects like Essentialsx.
 
 Here are some ideas to get you started:
 
-I’m currently working on a few projects for [CyberhubMC](http://cyberhub.net:10000).
+I’m currently working on a few projects for [Armi's World](http://armi.tkdkid1000.net).
 
 I’m currently learning JavaScript so I can develop my website. 
 
