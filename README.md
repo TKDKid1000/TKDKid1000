@@ -4,7 +4,7 @@ I’m a minecraft developer for Armi's World.
 I code in mostly java, and have contributed to large projects like Essentialsx.
 
 [![Followers](https://img.shields.io/badge/dynamic/json?color=green&label=Followers&query=followers&url=https%3A%2F%2Fapi.github.com%2Fusers%2FTKDKid1000)](https://github.com/TKDKid1000?tab=followers)
-[![Repositories](https://img.shields.io/badge/dynamic/json?color=blue&label=Repositories&query=public_repos&url=https%3A%2F%2Fapi.github.com%2Fusers%2FTKDKid1000)](https://github.com/TKDKid1000?tab=followers)
+[![Repositories](https://img.shields.io/badge/dynamic/json?color=blue&label=Repositories&query=public_repos&url=https%3A%2F%2Fapi.github.com%2Fusers%2FTKDKid1000)](https://github.com/TKDKid1000?tab=respositories)
 
 I’m currently working on a few projects for [Armi's World](http://armi.tkdkid1000.net).
 
