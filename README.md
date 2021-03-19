@@ -16,8 +16,8 @@ Want to contact me? Go [here](https://tkdkid1000.github.io/contact.html).
 
 Pronouns: he/him
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=TKDKid1000)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=TKDKid1000?theme=dark)
 
-[![Armis World](https://github-readme-stats.vercel.app/api/pin/?username=The-Epic-Server&repo=Armis-World)](https://github.com/The-Epic-Server/Armis-World)
+[![Armis World](https://github-readme-stats.vercel.app/api/pin/?username=The-Epic-Server&repo=Armis-World?theme=dark)](https://github.com/The-Epic-Server/Armis-World)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TKDKid1000&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TKDKid1000&layout=compact?theme=dark)
