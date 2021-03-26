@@ -6,11 +6,12 @@ I code in mostly java, and have contributed to large projects like Essentialsx.
 [![Followers](https://img.shields.io/badge/dynamic/json?color=green&label=Followers&query=followers&url=https%3A%2F%2Fapi.github.com%2Fusers%2FTKDKid1000)](https://github.com/TKDKid1000?tab=followers)
 [![Repositories](https://img.shields.io/badge/dynamic/json?color=blue&label=Repositories&query=public_repos&url=https%3A%2F%2Fapi.github.com%2Fusers%2FTKDKid1000)](https://github.com/TKDKid1000?tab=repositories)
 
+Check out my website at [tkdkid1000.net](https://tkdkid1000.github.io). 
 I’m currently working on a few projects for [Armi's World](http://armi.tkdkid1000.net).
 
-I’m currently learning JavaScript so I can develop my website. 
+I’m currently learning javafx so I can create [Raptor](https://github.com/TKDKid1000/Raptor). 
 
-Ask me about some of my current projects! Like MCGO or Armi's World. 
+Ask me about some of my current projects! Like [Raptor](https://github.com/TKDKid1000/Raptor), a 3D open world game. Or [Armi's World](https://github.com/The-Epic-Server/Armis-World), a new minecraft economy server. 
 
 Want to contact me? Go [here](https://tkdkid1000.github.io/contact.html).
 
