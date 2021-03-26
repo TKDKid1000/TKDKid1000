@@ -10,9 +10,9 @@ Check out my website at [tkdkid1000.net](https://tkdkid1000.github.io)!
 
 I’m currently working on a few projects for [Armi's World](http://armi.tkdkid1000.net).
 
-I’m currently learning javafx so I can create [Raptor](https://github.com/TKDKid1000/Raptor). 
+I’m currently learning javafx so I can create [Atlas](https://github.com/TKDKid1000/Atlas). 
 
-Ask me about some of my current projects! Like [Raptor](https://github.com/TKDKid1000/Raptor), a 3D open world game. Or [Armi's World](https://github.com/The-Epic-Server/Armis-World), a new minecraft economy server. 
+Ask me about some of my current projects! Like [Atlas](https://github.com/TKDKid1000/Atlas), a 2D open world game. Or [Armi's World](https://github.com/The-Epic-Server/Armis-World), a new minecraft economy server. 
 
 Want to contact me? Go [here](https://tkdkid1000.github.io/contact.html).
 
