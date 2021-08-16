@@ -1,25 +1,23 @@
 ### Hi there! I'm TKDKid1000!
 
-I’m a minecraft developer for Armi's World. 
-I code in mostly java, and have contributed to large projects like Essentialsx.
+I’m a web developer and Minecraft challenge creator. 
+Mostly, I code in typescript (node.js), but I also use java, swift, and python. 
 
 [![Followers](https://img.shields.io/badge/dynamic/json?color=green&label=Followers&query=followers&url=https%3A%2F%2Fapi.github.com%2Fusers%2FTKDKid1000)](https://github.com/TKDKid1000?tab=followers)
 [![Repositories](https://img.shields.io/badge/dynamic/json?color=blue&label=Repositories&query=public_repos&url=https%3A%2F%2Fapi.github.com%2Fusers%2FTKDKid1000)](https://github.com/TKDKid1000?tab=repositories)
 
 Check out my website at [https://tkdkid1000.net](https://tkdkid1000.net)!
 
-I’m currently working on a few projects for [Armi's World](http://armi.tkdkid1000.net).
+I’m currently learning swift so I can create ios things. Will push some apps to github soon. 
 
-I’m currently learning javafx so I can create [Atlas](https://github.com/TKDKid1000/Atlas). 
+Ask me about some of my current projects! Like MetroidVania (not on github yet), a test app for pure javafx physics. Or [my website](https://github.com/TKDKid1000/tkdkid1000-website). Suggest a feature, or just download it!
 
-Ask me about some of my current projects! Like [Atlas](https://github.com/TKDKid1000/Atlas), a 2D open world game. Or [Armi's World](https://github.com/The-Epic-Server/Armis-World), a new minecraft economy server. 
-
-Want to contact me? Go [here](https://tkdkid1000.github.io/contact.html).
+Want to contact me? Email [me@tkdkid1000.net](mailto:me@tkdkid1000.net), or add TKDKid1000#0406 on discord. 
 
 Pronouns: he/him
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=TKDKid1000&theme=merko)
 
-[![Armis World](https://github-readme-stats.vercel.app/api/pin/?username=The-Epic-Server&repo=Armis-World&theme=merko)](https://github.com/The-Epic-Server/Armis-World)
+<!--[![Armis World](https://github-readme-stats.vercel.app/api/pin/?username=The-Epic-Server&repo=Armis-World&theme=merko)](https://github.com/The-Epic-Server/Armis-World)-->
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TKDKid1000&layout=compact&theme=merko)
