@@ -8,9 +8,9 @@ Mostly, I code in typescript (node.js), but I also use java, swift, and python.
 
 Check out my website at [https://tkdkid1000.net](https://tkdkid1000.net)!
 
-I’m currently learning swift so I can create ios things. Will push some apps to github soon. 
+I have created my own package manager for python that feels a lot like npm, [pypm](https://www.npmjs.com/package/@tkdkid1000/pypm)!
 
-Ask me about some of my current projects! Like MetroidVania (not on github yet), a test app for pure javafx physics. Or [my website](https://github.com/TKDKid1000/tkdkid1000-website). Suggest a feature, or just download it!
+Ask me about some of my current projects! Like Harmony (not on github yet), a chatting service similar to Discord. Or [my discord bot](https://github.com/TKDKid1000/Discord-Typescript-Bot). Suggest a feature, or just download it!
 
 Want to contact me? Email [me@tkdkid1000.net](mailto:me@tkdkid1000.net), or add TKDKid1000#0406 on discord. 
 
