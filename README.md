@@ -10,7 +10,7 @@ Check out my website at [https://tkdkid1000.net](https://tkdkid1000.net)!
 
 I have created my own package manager for python that feels a lot like npm, [pypm](https://www.npmjs.com/package/@tkdkid1000/pypm)!
 
-Ask me about some of my current projects! Like Harmony (not on github yet), a chatting service similar to Discord. Or [my discord bot](https://github.com/TKDKid1000/Discord-Typescript-Bot). Suggest a feature, or just download it!
+Ask me about some of my current projects! I am attempting to recreate Discord... It's called [Wyvern](https://github.com/WyvernChat), (go check it out)[https://github.com/WyvernChat/Wyvern]. I need help with css and images so if you wanna help please do so. Want actual Discord things? Check out [my discord bot](https://github.com/TKDKid1000/Discord-Typescript-Bot). Suggest a feature, or just download it!
 
 Want to contact me? Email [me@tkdkid1000.net](mailto:me@tkdkid1000.net), or add TKDKid1000#0406 on discord. 
 
