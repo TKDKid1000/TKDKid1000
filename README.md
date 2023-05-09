@@ -1,7 +1,7 @@
 ### Hi there, I'm TKDKid1000!
 
-I’m a frontend and fullstack developer, and filmmaker.
-I write code using Typescript, Node.js, React, Python, and several other technologies. 
+I’m a web developer, AI enthusiast, and photographer!
+I write code using Typescript, Node.js, React, Python, Transformers, and several other technologies. 
 
 [![Followers](https://img.shields.io/badge/dynamic/json?color=green&label=Followers&query=followers&url=https%3A%2F%2Fapi.github.com%2Fusers%2FTKDKid1000)](https://github.com/TKDKid1000?tab=followers)
 [![Repositories](https://img.shields.io/badge/dynamic/json?color=blue&label=Repositories&query=public_repos&url=https%3A%2F%2Fapi.github.com%2Fusers%2FTKDKid1000)](https://github.com/TKDKid1000?tab=repositories)
@@ -10,6 +10,8 @@ Check out my website at [https://tkdkid1000.net](https://tkdkid1000.net)!
 
 Wyvern - the open source Discord clone - is public! Visit [WyvernChat/Wyvern](https://github.com/WyvernChat/Wyvern) for the source of the main app.<br />
 As an open source piece of Wyvern, I also recently started [MediaWare](https://github.com/WyvernChat/MediaWare), which is an open source image proxy/upload server. It handles resizing, cropping, and storage.
+
+Currently working hard on replicating a functional human as a multi-purpose chatbot using various technologies. You can find the project over on [gpt-me](https://github.com/TKDKid1000/gpt-me) to learn more.
 
 I have created my own package manager for python that feels a lot like npm, [pypm](https://www.npmjs.com/package/@tkdkid1000/pypm)!
 
