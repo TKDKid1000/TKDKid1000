@@ -8,7 +8,7 @@ My favorite languages are Python, Rust, and TypeScript.
 
 Check out my website at https://tkdkid1000.net!
 
-I'm currently working on rewriting [Excel as a TUI](https://github.com/TKDKid1000/excel-tui). It's my first large Rust project, and it has been quite fun.
+I'm currently working on rewriting [Excel as a TUI](https://github.com/TKDKid1000/excel-tui). It's my first large Rust project, and it has been quite fun. I'm also designing my own recommendation system for Plex, terribly named [PlexRec](https://github.com/TKDKid1000/PlexRec).
 
 Want to contact me? Email [mail@tkdkid1000.net](mailto:mail@tkdkid1000.net). 
 
